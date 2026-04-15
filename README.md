@@ -1,7 +1,7 @@
 #Data Warehouse and Analytics Project
 
-Welcome to the ** Data Warehouse and Analytics Project ** repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 
@@ -33,4 +33,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 💥About Me
 
-Hi there! I'm ** Nasrin Khatoon** . I'm an CSE student !
+## 💥 About Me
+
+Hi, I'm **Nasrin Khatoon**, a CSE student interested in data engineering and analytics.
+
