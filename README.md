@@ -38,7 +38,8 @@ This project involves:
 - **SQL Server Management Studio (SSMS)** – https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms  
 - **Power BI** – https://powerbi.microsoft.com/  
 - **Draw.io** – https://www.draw.io/  
-- **GitHub** – https://github.com/  
+- **GitHub** – https://github.com/
+- **Draw.io steps**-
 ---
 ## 🚀Project Requirements
 
