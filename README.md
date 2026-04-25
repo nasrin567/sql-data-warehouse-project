@@ -82,9 +82,10 @@ GROUP BY p.product_name
 ORDER BY total_sales DESC;
 ``` 
 ### 🔹 Query Output
-Result of the analytical query showing top-performing products:
-![Query Output](docs/final_output.png)
 
+Result of the analytical query showing top-performing products:
+
+![Query Output](docs/final_output.png)
 
 ---
 ## 👩‍💻 Author
