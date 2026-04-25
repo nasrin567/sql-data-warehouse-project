@@ -1,6 +1,4 @@
 # Data Warehouse and Analytics Project
-
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates how I built an end-to-end data warehouse using SQL Server, from raw data ingestion to analytical reporting. It follows the Medallion Architecture approach (Bronze, Silver, Gold) to transform raw data into business-ready insights.
 
 ---
@@ -15,34 +13,33 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 ## 📖 Project Overview
+This project includes:
 
-This project involves:
+1. **Data Architecture**: Designed a modern data warehouse using Medallion Architecture (Bronze, Silver, Gold).
+2. **ETL Pipelines**: Built SQL-based pipelines to ingest, clean, and transform data.
+3. **Data Modeling**: Created fact and dimension tables using a star schema.
+4. **Analytics & Reporting**: Developed SQL queries to generate business insights.
 
-1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
-
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
-- SQL Development
-- Data Architect
-- Data Engineering  
-- ETL Pipeline Developer  
-- Data Modeling  
-- Data Analytics  
 
 ---
-## 🔗 Important Tools & Links
+## 🛠️ Tools Used
 
-- **SQL Server Express** – https://www.microsoft.com/en-us/sql-server/sql-server-downloads  
-- **SQL Server Management Studio (SSMS)** – https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms  
-- **Power BI** – https://powerbi.microsoft.com/  
-- **Draw.io** – https://www.draw.io/  
-- **GitHub** – https://github.com/
-- **Project Documentation (Detailed Steps)**- https://www.notion.so/SQL-Data-Warehouse-Project-3425e7c8404880fd9502d2f997c9c1ee?source=copy_link
+- **SQL Server Express** – Data storage & processing  
+- **SSMS** – Query execution & database management  
+- **Power BI** – Data visualization (optional reporting)  
+- **Draw.io** – Architecture & data flow diagrams  
+
 ---
-## 🚀Project Requirements
+## 📘 Project Documentation (Notion)
 
+I documented the complete workflow of this project, including:
+- Data Architecture Design  
+- ETL Pipeline Implementation  
+- Bronze, Silver, Gold Layer Development  
+- Data Validation & Testing  
+
+👉 [View full step-by-step project in Notion](https://www.notion.so/SQL-Data-Warehouse-Project-3425e7c8404880fd9502d2f997c9c1ee?source=copy_link)
+---
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
