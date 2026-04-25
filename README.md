@@ -69,7 +69,13 @@ These insights empower stakeholders with key business metrics, enabling strategi
 --
 
 
-## 💥 About Me
 
-Hi, I'm **Nasrin Khatoon**, a CSE student interested in data engineering and analytics.
+## 👨‍💻 Author
+Nasrin Khatoon  
+CSE Student | Data Engineering & Analytics Enthusiast  
 
+Skills:
+- SQL Server
+- Data Warehousing
+- ETL Pipelines
+- Data Modeling
