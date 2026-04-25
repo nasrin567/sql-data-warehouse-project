@@ -51,11 +51,11 @@ I documented the complete workflow of this project, including:
 - Designed a star schema with fact and dimension tables in Gold layer  
 - Ensured data quality through validation and transformation logic  
 ### 🔹 Silver Layer Transformation
-
+Data cleaning and standardization logic applied using SQL:
 ![Silver Layer](docs/silver_layer.png)
 
 ### 🔹 Gold Layer (Fact Table)
-
+Final business-ready fact table creation using joins:
 ![Gold Layer](docs/gold_layer.png)
 ---
 
