@@ -40,30 +40,30 @@ I documented the complete workflow of this project, including:
 
 👉 [View full step-by-step project in Notion](https://www.notion.so/SQL-Data-Warehouse-Project-3425e7c8404880fd9502d2f997c9c1ee?source=copy_link)
 ---
-### Building the Data Warehouse (Data Engineering)
+## 🚀 Project Implementation
 
-#### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+### 🏗️ Data Warehouse (Data Engineering)
 
-#### Specifications
-- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+#### What I implemented:
+- Ingested raw data from ERP and CRM systems (CSV files) into SQL Server (Bronze layer)  
+- Cleaned and standardized data in Silver layer (handling nulls, formatting, and inconsistencies)  
+- Integrated multiple sources into a unified data model  
+- Designed a star schema with fact and dimension tables in Gold layer  
+- Ensured data quality through validation and transformation logic  
+
 ---
 
-### BI: Analytics & Reporting (Data Analytics)
+### 📊 Analytics & Reporting (Data Analytics)
 
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+#### What I implemented:
+- Built SQL queries to analyze:
+  - Customer behavior  
+  - Product performance  
+  - Sales trends  
+- Created aggregated insights such as top-performing products  
+- Enabled business-ready reporting using structured Gold layer data  
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
---
+---
 
 
 
