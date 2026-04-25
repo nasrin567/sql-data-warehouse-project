@@ -50,7 +50,13 @@ I documented the complete workflow of this project, including:
 - Integrated multiple sources into a unified data model  
 - Designed a star schema with fact and dimension tables in Gold layer  
 - Ensured data quality through validation and transformation logic  
+### 🔹 Silver Layer Transformation
 
+![Silver Layer](docs/silver_layer.png)
+
+### 🔹 Gold Layer (Fact Table)
+
+![Gold Layer](docs/gold_layer.png)
 ---
 
 ### 📊 Analytics & Reporting (Data Analytics)
@@ -62,6 +68,19 @@ I documented the complete workflow of this project, including:
   - Sales trends  
 - Created aggregated insights such as top-performing products  
 - Enabled business-ready reporting using structured Gold layer data  
+
+### 🔹 Sample Analytical Query
+
+```sql
+SELECT 
+    p.product_name,
+    SUM(f.sales_amount) AS total_sales
+FROM gold.fact_sales f
+JOIN gold.dim_products p 
+    ON f.product_key = p.product_key
+GROUP BY p.product_name
+ORDER BY total_sales DESC;
+``` 
 
 ---
 ## 👩‍💻 Author
