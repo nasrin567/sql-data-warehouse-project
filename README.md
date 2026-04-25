@@ -64,7 +64,7 @@ I documented the complete workflow of this project, including:
 - Enabled business-ready reporting using structured Gold layer data  
 
 ---
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 Nasrin Khatoon  
 CSE Student | Aspiring Data Analyst  
