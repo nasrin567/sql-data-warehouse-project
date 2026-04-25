@@ -64,15 +64,14 @@ I documented the complete workflow of this project, including:
 - Enabled business-ready reporting using structured Gold layer data  
 
 ---
-
-
-
 ## 👨‍💻 Author
-Nasrin Khatoon  
-CSE Student | Data Engineering & Analytics Enthusiast  
 
-Skills:
-- SQL Server
-- Data Warehousing
-- ETL Pipelines
-- Data Modeling
+Nasrin Khatoon  
+CSE Student | Aspiring Data Analyst  
+
+Focused on:
+- SQL for Data Analysis  
+- Data Cleaning & Transformation  
+- Data Modeling (Star Schema)  
+- Analytical Querying & Insights  
+
