@@ -81,7 +81,9 @@ JOIN gold.dim_products p
 GROUP BY p.product_name
 ORDER BY total_sales DESC;
 ``` 
+### 🔹 Query Output
 
+![Query Output](docs/final_output.png)
 
 ---
 ## 👩‍💻 Author
