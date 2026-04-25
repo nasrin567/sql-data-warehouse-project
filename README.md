@@ -39,7 +39,7 @@ This project involves:
 - **Power BI** – https://powerbi.microsoft.com/  
 - **Draw.io** – https://www.draw.io/  
 - **GitHub** – https://github.com/
-- **Draw.io steps**- https://www.notion.so/SQL-Data-Warehouse-Project-3425e7c8404880fd9502d2f997c9c1ee?source=copy_link
+- **Project Documentation (Detailed Steps)**- https://www.notion.so/SQL-Data-Warehouse-Project-3425e7c8404880fd9502d2f997c9c1ee?source=copy_link
 ---
 ## 🚀Project Requirements
 
